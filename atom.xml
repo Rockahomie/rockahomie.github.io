@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Filter Copy</title>
+    <subtitle>Just another blog</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://rockahomie.github.io/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://rockahomie.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-01-25T00:00:00+00:00</updated>
+    <id>https://rockahomie.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>About</title>
+        <published>2025-01-25T00:00:00+00:00</published>
+        <updated>2025-01-25T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rockahomie.github.io/about/"/>
+        <id>https://rockahomie.github.io/about/</id>
+        
+        <content type="html" xml:base="https://rockahomie.github.io/about/">&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
+&lt;p&gt;I created this site to be a journal which would then motivate me to continue and develop new stuff. Its mostly an outlet for me to post my thoughts and &lt;em&gt;small&lt;&#x2F;em&gt; achievements to nobody.&lt;&#x2F;p&gt;
+&lt;p&gt;If you&#x27;re reading this, hi!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;encrypted-tbn0.gstatic.com&#x2F;images?q=tbn:ANd9GcTPSj_5CyAsvC6Vpn7fqX7J4O2wswA47WmwNQ&amp;amp;s&quot; alt=&quot;Description&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Embracing Open-Source at FOSS India with Mukti Community</title>
+        <published>2024-09-08T14:11:58+05:30</published>
+        <updated>2024-09-08T14:11:58+05:30</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rockahomie.github.io/first-post/"/>
+        <id>https://rockahomie.github.io/first-post/</id>
+        
+        <content type="html" xml:base="https://rockahomie.github.io/first-post/">&lt;p&gt;Attending FOSS India with the Mukti team was an inspiring experience and a reminder of the power and potential of open-source software. Representing MSRIT alongside my peers, I got the chance to dive into the world of Free and Open-Source Software (FOSS) and engage with a community that’s passionate about technology, innovation, and collaboration.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;fossunited.org&#x2F;files&#x2F;indiafoss3_group_photo.JPG&quot; alt=&quot;Description&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-is-open-source&quot;&gt;What is Open Source?&lt;&#x2F;h2&gt;
+&lt;p&gt;Open-source software is more than just code; it’s a movement built on transparency, collaboration, and shared growth. In my work with Mukti, MSRIT’s FOSS club, we constantly look for ways to make technology accessible and inclusive. This event offered the perfect opportunity to connect with others who share these values and learn about the latest trends and projects in open-source.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;key-highlights-from-foss-india&quot;&gt;Key Highlights from FOSS India&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;workshops-and-hands-on-sessions&quot;&gt;Workshops and Hands-On Sessions&lt;&#x2F;h3&gt;
+&lt;p&gt;The event hosted a variety of workshops covering topics from version control systems to containerization with Docker. The hands-on sessions were particularly valuable, giving me and the Mukti team a chance to experiment with new tools and expand our skills. These workshops served as a reminder of how accessible tech knowledge becomes when it’s freely shared.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;panel-discussions&quot;&gt;Panel Discussions&lt;&#x2F;h3&gt;
+&lt;p&gt;One of the most inspiring parts of the event was hearing from industry veterans and leaders in the open-source community. Panel discussions covered a range of topics, from the ethics of open-source contributions to the role of FOSS in shaping the future of AI. These discussions highlighted the impact that open-source software can have across industries and gave us new perspectives on responsible tech development.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;networking-and-community-building&quot;&gt;Networking and Community Building&lt;&#x2F;h3&gt;
+&lt;p&gt;Meeting other developers, contributors, and advocates for open-source was one of the best parts of the event. The FOSS community is filled with people who believe in building software for everyone, and connecting with them broadened my understanding of the collaborative possibilities open-source offers. The Mukti team and I exchanged ideas, discussed ongoing projects, and explored potential collaborations, which opened up exciting new directions for us to explore as a club.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;takeaways-and-future-plans&quot;&gt;Takeaways and Future Plans&lt;&#x2F;h2&gt;
+&lt;p&gt;Participating in FOSS India reinforced my belief in open-source as a force for good. As a core member of Mukti, I’m excited to bring back what I’ve learned and share it with my college community. We’re planning to organize a series of events focused on open-source education, including coding sessions, workshops on popular FOSS tools, and collaborative projects that welcome beginners.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;why-foss-matters-to-me&quot;&gt;Why FOSS Matters to Me&lt;&#x2F;h2&gt;
+&lt;p&gt;In a world where proprietary software often dominates, open-source gives power back to the people. It allows anyone with the drive to learn, build, and contribute. My experience at FOSS India with Mukti reminded me that open-source isn’t just a software model—it’s a philosophy that embraces inclusivity, innovation, and the freedom to create.&lt;&#x2F;p&gt;
+&lt;p&gt;As I continue my journey in computer science, I’m looking forward to applying what I’ve learned from the open-source community. FOSS India was more than an event; it was a movement that made me more committed than ever to building accessible, impactful technology.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;em&gt;P.S: I couldn’t find a photo taken in 2024 so I had to reuse the group photo we took in 2023.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
