@@ -18,7 +18,6 @@ concurrency:
 defaults:
   run:
     shell: bash
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -31,17 +30,21 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
       - name: Install Dart Sass
         run: sudo snap install dart-sass
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           submodules: recursive
           fetch-depth: 0
-      - name: Install PaperMod Theme
-        run: git clone --depth 1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
+      - name: Ensure Clean Theme Directory
+        run: |
+          if [ -d themes/PaperMod ]; then
+            rm -rf themes/PaperMod
+          fi
+          git clone --depth 1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - name: Install Node.js dependencies
+      - name: Install Node.js Dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo
         env:
@@ -54,7 +57,7 @@ jobs:
             --gc \
             --minify \
             --baseURL "https://rockahomie.github.io/"          
-      - name: Upload artifact
+      - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
