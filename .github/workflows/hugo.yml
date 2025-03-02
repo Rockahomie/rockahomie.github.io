@@ -61,11 +61,11 @@ jobs:
             --source exampleSite \
             --baseURL "${{ steps.pages.outputs.base_url }}/" 
       - name: Index pagefind
-        run: npx pagefind --site "./exampleSite/public"
+        run: npx pagefind --site "./public"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3.0.1
         with:
-          path: ./exampleSite/public
+          path: ./public
 
   # Deployment job
   deploy:
