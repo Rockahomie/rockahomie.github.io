@@ -10,6 +10,8 @@ categories: ["server"]
 cover: 'https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/2.svg'
 alt: 'FOSSINDIA Photo'
 translationKey: 'media'
+toc: true
+coffee: 1
 ---
 
 

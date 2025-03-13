@@ -21,7 +21,7 @@ ignoreFiles = [ '\.redacted', '\.old','\.bak', '\.tmp', '\.swp', '\.DS_Store']
 ## Errors to ignore in logs
 # ignoreLogs = ['err-youtube-remote']
 ## Copyright notice
-copyright = 'Copyright 2025 (c) Foxxi'
+copyright = 'Copyright 2025 (c) Schizoid-man'
 
 ## Front matter field configurations
 [frontmatter]

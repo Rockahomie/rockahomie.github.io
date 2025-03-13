@@ -4,6 +4,6 @@ cover: 'https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/fl
 
 ## Welcome
 
-This blog is about my thoughts, and originally, there will not be any content, but i hope to upload more soon. This is just for visual testing purposes. :)
+This blog is about my thoughts, and originally, there will not be much content, but i hope to upload more blog posts soon. Have fun :)
 
 --- schizoidman

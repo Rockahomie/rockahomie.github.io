@@ -1,7 +1,7 @@
 ---
 type: 'footer'
 weight: 1
-coffee: 2
+coffee: 1
 params:
     headless: true
     target: 'https://github.com/Rockahomie'
