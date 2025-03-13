@@ -1,11 +1,11 @@
 ## Base URL for the site
-baseURL = 'https://schizoid-man.github.io'
+baseURL = 'https://rockahomie.github.io/blog/'
 ## Site title
-title = 'filter copy'
+title = 'Filter Copy'
 ## Use hugo-brewm theme
 theme = 'hugo-brewm'
 ## Enable Git information for pages, (e.g. lastMod date information)
-# enableGitInfo = true
+##enableGitInfo = true
 ## Convert all URLs to absolute URLs
 canonifyURLs = true
 ## Default language for content
