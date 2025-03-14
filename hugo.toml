@@ -1,5 +1,5 @@
 ## Base URL for the site
-baseURL = 'https://rockahomie.github.io'
+baseURL = 'https://car-seat-headrest.github.io'
 ## Site title
 title = 'Filter Copy'
 ## Use hugo-brewm theme
